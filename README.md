@@ -1,3 +1,3 @@
-# Logo de Empresas en CSS
+# Logos en CSS puro
 
-![][docs/screenshot.png]
+![](docs/screenshot.png)
